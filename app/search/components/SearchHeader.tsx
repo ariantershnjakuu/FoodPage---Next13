@@ -10,7 +10,7 @@ const SearchHeader: React.FC<SearchHeaderProps> = () => {
           placeholder="State, city or town"
         />
         <button className="rounded bg-red-600 px-9 py-2 text-white">
-          Let's go
+          Fillo Tani
         </button>
       </div>
     </div>
